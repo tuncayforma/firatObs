@@ -1,0 +1,29 @@
+.card1 {
+  color: white;
+  border-radius: 14%;
+  background-color: rgb(6, 163, 163);
+  }
+  
+  .card2{
+    color: white;
+    border-radius: 14%;
+    background-color: rgb(33, 95, 189);
+  }
+  
+  .card3{
+    color: white;
+    border-radius: 14%;
+    background-color: rgb(100, 4, 129);
+  }
+  
+  .card-body button{
+    border: 2px solid #ffffff;
+      padding: 5px 20px;
+      outline: none;
+      color: rgb(7, 8, 26);
+      background-color: rgb(122, 150, 211);
+      border-radius: 24px;
+      transition: 0.25s;
+      margin-left: 10px;
+      cursor: pointer
+  }
